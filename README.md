@@ -27,8 +27,13 @@ IMPORTANT SETUP!!! ->>
 
 ![image](https://github.com/user-attachments/assets/be0c35f3-9061-4f33-b88e-894ceecd42f0)
 
+5. Make sure NPC map indicators are enabled in MA:X graphics settings.
 
-5. In order for prestiging to work properly, your base must be the one that is closest to both the prestige and crafting NPCs. Before starting the script, walk over to the prestige NPC and orientate your character as displayed below. It does not need to be 100% exact, but you should be close to this orientation.
+
+![image](https://github.com/user-attachments/assets/05cb64da-9e41-4a66-bfa6-13e1fb409821)
+
+
+6. In order for prestiging to work properly, your base must be the one that is closest to both the prestige and crafting NPCs. Before starting the script, walk over to the prestige NPC and orientate your character as displayed below. It does not need to be 100% exact, but you should be close to this orientation.
 
 
 ![image](https://github.com/user-attachments/assets/494547dd-b919-4950-bec7-38ce52ec1e6c)
