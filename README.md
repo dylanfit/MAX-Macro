@@ -1,6 +1,6 @@
 # MAX-Macro
 A macro that reincarnates and prestiges for the user automatically.
-
+PLEASE REPORT ANY BUGS OR ISSUES TO doodlechihuahua6252 on discord!
 
 IMPORTANT SETUP!!! ->>
 
