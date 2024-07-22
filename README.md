@@ -39,4 +39,4 @@ IMPORTANT SETUP!!! ->>
 ![image](https://github.com/user-attachments/assets/494547dd-b919-4950-bec7-38ce52ec1e6c)
 
 
-6. Extract the ZIP file and execute the RunScript.bat file. Follow the instructions carefully.
+7. Extract the ZIP file and execute the RunScript.bat file. Follow the instructions carefully.
