@@ -1,4 +1,7 @@
 # MAX-Macro
+
+!!! it is highly recommended to use bloxstrap with a custom, easily readable font that is compatible with OCR. I know that Arial works 100%. !!!
+
 A macro that reincarnates and prestiges for the user automatically.
 PLEASE REPORT ANY BUGS OR ISSUES TO doodlechihuahua6252 on discord!
 
