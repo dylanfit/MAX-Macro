@@ -42,4 +42,10 @@ IMPORTANT SETUP!!! ->>
 ![image](https://github.com/user-attachments/assets/494547dd-b919-4950-bec7-38ce52ec1e6c)
 
 
-7. Extract the ZIP file and execute the RunScript.bat file. Follow the instructions carefully.
+7. Your progression menu (which can be shown by pressing 'C' in game, should look like this. The importance is in the size of the Life, Prest. req, and Overach. req text. The font may vary depending on if you use bloxstrap, but the size should be relatively the same.
+  
+
+![image](https://github.com/user-attachments/assets/fbb8b0e6-d627-4220-8944-cc60d4744b46)
+
+
+8. Extract the ZIP file and execute the RunScript.bat file. Follow the instructions carefully.
