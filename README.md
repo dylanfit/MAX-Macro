@@ -13,7 +13,7 @@ IMPORTANT SETUP!!! ->>
 ![image](https://github.com/user-attachments/assets/b57f6c09-657f-468d-bfce-6f6ccf327ccd)
 
 
-2. Make sure ROBLOX is fullscreen in the in-game settings. 
+2. Make sure ROBLOX is fullscreen in the in-game settings. (ROBLOX LANGUAGE MUST ALSO BE SET TO ENGLISH)
 
 
 ![image](https://github.com/user-attachments/assets/33d21e17-96b8-45c5-a33f-13bf7407155c)
