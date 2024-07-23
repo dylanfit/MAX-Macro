@@ -1,3 +1,4 @@
+huge cred to dully176 for helping in the creation of this program
 # MAX-Macro
 
 !!! it is highly recommended to use bloxstrap with a custom, easily readable font that is compatible with OCR. I know that Arial works 100%. !!! (the default MA:X font WILL cause misreads)
